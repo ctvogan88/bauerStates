@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "image": "/assets/images/bauer-bye.jpg",
+        "name": "Bye Bye Bauer"
+    },
+    {
+        "id": 2,
+        "image": "/assets/images/bauer-clean.jpg",
+        "name": "Clean Bauer"
+    },
+    {
+        "id": 3,
+        "image": "/assets/images/bauer-confused.jpg",
+        "name": "Confused Bauer"
+    },
+    {
+        "id": 4,
+        "image": "/assets/images/bauer-dirty.jpg",
+        "name": "Dirty Bauer"
+    },
+    {
+        "id": 5,
+        "image": "/assets/images/bauer-hockey.jpg",
+        "name": "Hockey Bauer"
+    },
+    {
+        "id": 6,
+        "image": "/assets/images/bauer-ready.jpg",
+        "name": "Ready Bauer"
+    }
+]
